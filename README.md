@@ -39,9 +39,9 @@ I enjoy working across the stack—from designing beautiful interfaces to buildi
 ---
 
 ## 🚀 Featured Projects
+- **Smart Home Automation with voice control**: Iot project ([GitHub](https://github.com/mdnabilahmed/College-project-Smart-Home-automation)) 
 - **SpaceKit**: E-commerce app with MERN + Tailwind ([GitHub](https://github.com/mdnabilahmed/spacekit))  
-- **Project 2**: Describe a cool project ([GitHub](#))  
-- **Project 3**: Another project showcase ([GitHub](#))  
+- **MDLR - Shop**: E-commerce app with HTML, CSS, JavaScript ([GitHub](https://github.com/mdnabilahmed/MDLR---shop-main))  
 
 ---
 
