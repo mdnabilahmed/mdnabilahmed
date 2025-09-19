@@ -19,7 +19,7 @@ I enjoy working across the stack—from designing beautiful interfaces to buildi
 ## 🔗 Find Me Online
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-nabil-ahmed-5a99331b3/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdnabilahmed)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/md.nabil.ahmed/)
 
 ---
 
